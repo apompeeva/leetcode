@@ -1,5 +1,8 @@
 ## Leetcode solutions
 
+### Easy
+- [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/submissions/1246600660?envType=daily-question&envId=2024-05-01)
+
 ### Medium
 - [2997. Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/submissions/1245090687?envType=daily-question&envId=2024-04-29)
 
